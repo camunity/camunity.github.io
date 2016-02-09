@@ -1,10 +1,10 @@
 
-#header {
+.header {
 	font-family: Bangers;
 	text-align: center;
 }
 
-#imageBlock {
+.imageBlock {
 	padding-top: 15px;
 	height: 50vh;
     	width: auto;
@@ -16,6 +16,7 @@
 	padding-top: 20px;
 	font-family: Bangers;
 	align: left;
+	font-size: 100%
 }
 
 h1 {
@@ -42,17 +43,19 @@ li {
     line-height: 170%;   
 }
 
+.section {	
+    padding-left: 30px;	
+    padding-top: 15px;
+    word-wrap: break-word;
+    width:80vh;
+}
 .row {
-    padding-left: 30px;
+    padding-left: 45px;
     padding-top: 15px;
     word-wrap: break-word;
     width: 80vh;
 }
 
-.row:last-child {
-    padding-bottom: 10px;
-}
+.content{
 
-.page-link {
-    font-size: 130%;
 }
