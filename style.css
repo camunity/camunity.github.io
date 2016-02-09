@@ -1,0 +1,58 @@
+
+#header {
+	font-family: Bangers;
+	text-align: center;
+}
+
+#imageBlock {
+	padding-top: 15px;
+	height: 50vh;
+    	width: auto;
+	align: left; 
+	padding-bottom: 5px; 
+}
+
+#pageLinks {
+	padding-top: 20px;
+	font-family: Bangers;
+	align: left;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 300%;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+h4 {
+    font-weight: 500;
+}
+
+p {
+    font-size: 110%;
+    line-height: 170%;
+}
+
+li {
+    line-height: 170%;   
+}
+
+.row {
+    padding-left: 30px;
+    padding-top: 15px;
+    word-wrap: break-word;
+    width: 80vh;
+}
+
+.row:last-child {
+    padding-bottom: 10px;
+}
+
+.page-link {
+    font-size: 130%;
+}
